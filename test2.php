@@ -1,6 +1,7 @@
 <?php 
 
-    echo 2.'test';
+    echo 'test';
+    echo '这个是moke提交的';
 
 
 
